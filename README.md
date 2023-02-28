@@ -5,7 +5,7 @@ About me->
       • Age: 15 years old  
       • Specialization: development of desktop C++ applications and web PYTHON applications  
   
-Contact me-|->
+Contact me->
   • Telegram: @alexeysnurnikov  
   • Discord: Quist#6660  
   • Email: alexeysnurnikov@mail.ru
