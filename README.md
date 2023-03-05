@@ -2,7 +2,7 @@
 
 About me->  
       • Name: Alexey  
-      • Age: 15 years old  
+      • Age: 16 years old  
       • Specialization: development of desktop C++ applications and web PYTHON applications  
   
 Contact me->
