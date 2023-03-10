@@ -4,8 +4,9 @@ About me->
       • Name: Alexey  
       • Age: 16 years old  
       • Specialization: development of desktop C++ applications and web PYTHON applications  
+      • My site: http://quist-dev.ru/
   
-Contact me->
+Contact me->  
   • Telegram: @alexeysnurnikov  
   • Discord: Quist#6660  
   • Email: alexeysnurnikov@mail.ru
